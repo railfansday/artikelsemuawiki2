@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-28T01:52:18.630297",
-  "total_articles": 12897,
+  "generated_at": "2026-11-28T15:50:49.475859",
+  "total_articles": 14584,
   "by_category": {
-    "General": 11009,
-    "AI & Tech": 931,
-    "EV & Auto": 117,
-    "Hardware & Chips": 86,
-    "Gadgets": 291,
-    "Business & Policy": 463
+    "General": 12481,
+    "Gadgets": 340,
+    "AI & Tech": 1071,
+    "Business & Policy": 499,
+    "Hardware & Chips": 76,
+    "EV & Auto": 117
   },
   "top_sources": {
-    "Google News": 12443,
-    "Wikipedia": 454
+    "Google News": 13972,
+    "Wikipedia": 612
   }
 }
